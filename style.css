@@ -1,0 +1,85 @@
+header {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/844032993656176670/858970505268428830/Background.png");   
+}
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: fixed;
+    width: 150%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.lside {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: fixed;
+    width: 25%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.rside {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: fixed;
+    width: 25%;
+    margin-top: 100px;
+    margin-left: 950px;
+
+}
+
+.mside {
+    width: 25%;
+    padding-left: 535px;
+}
+
+mid {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pfp {
+    position: fixed;
+    padding-left: 590px;
+}
+
+.name {
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 95px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: rgb(53, 48, 48);
+}
